@@ -1,7 +1,6 @@
-min value 20
-max value 58
-all min value 5
-all max value 58
-that  is swap function
-a value is 5
-d value is 20
+rafikul islam is bsd guy
+10
+20
+30
+40
+50
