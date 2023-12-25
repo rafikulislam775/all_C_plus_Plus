@@ -1,0 +1,1 @@
+{"name":"Local: sort_array","url":"c:\\Users\\rafik\\OneDrive\\Desktop\\phitron\\c++\\class_object\\sort_array.cpp","tests":[{"id":1703421900928,"input":"5\n10 20 12 32 33","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\rafik\\OneDrive\\Desktop\\phitron\\c++\\class_object\\sort_array.cpp","group":"local","local":true}

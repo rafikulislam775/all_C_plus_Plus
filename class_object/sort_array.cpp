@@ -11,8 +11,8 @@ int main()
         
     }
     // now try to sort ascending
-    // sort(arr,arr+n);
-    //descending
+    // sort(arr,arr+n);// arr and arrays size
+    //descending korte hole greater<int>() likte hobe
     sort(arr,arr+n,greater<int>());
     for(int i=0; i<n; i++){
         cout << arr[i] <<" ";

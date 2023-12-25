@@ -42,7 +42,14 @@
     "xstring": "cpp",
     "xtr1common": "cpp",
     "xutility": "cpp",
-    "complex": "cpp"
+    "complex": "cpp",
+    "any": "cpp",
+    "array": "cpp",
+    "fstream": "cpp",
+    "optional": "cpp",
+    "shared_mutex": "cpp",
+    "sstream": "cpp",
+    "variant": "cpp"
   },
   "C_Cpp.errorSquiggles": "disabled"
 }

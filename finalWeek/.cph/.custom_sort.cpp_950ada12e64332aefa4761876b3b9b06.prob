@@ -1,0 +1,1 @@
+{"name":"Local: custom_sort","url":"c:\\Users\\rafik\\OneDrive\\Desktop\\phitron\\c++\\finalWeek\\custom_sort.cpp","tests":[{"id":1703370053766,"input":"abdfdfsdfsdf","output":"dddd\nffff\nss\na\nb"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\rafik\\OneDrive\\Desktop\\phitron\\c++\\finalWeek\\custom_sort.cpp","group":"local","local":true}
